@@ -85,3 +85,47 @@
 [I 2021-07-21 14:54:03.436 ServerApp] Shutting down on /api/shutdown request.
 [I 2021-07-21 14:54:03.439 ServerApp] Shutting down 0 kernels
 [I 2021-07-21 14:54:03.440 ServerApp] Shutting down 0 terminals
+/home/tomas/miniconda3/envs/autogis/lib/python3.8/site-packages/jupyter_server/transutils.py:13: FutureWarning: The alias `_()` will be deprecated. Use `_i18n()` instead.
+  warnings.warn(warn_msg, FutureWarning)
+[I 2021-07-29 13:24:02.121 ServerApp] jupyter_server_mathjax | extension was successfully linked.
+[I 2021-07-29 13:24:02.132 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-07-29 13:24:02.132 ServerApp] jupyterlab_git | extension was successfully linked.
+[W 2021-07-29 13:24:02.947 ServerApp] The module 'jupyter_nbextensions_configurator' could not be found. Are you sure the extension is installed?
+[I 2021-07-29 13:24:02.947 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-07-29 13:24:02.947 ServerApp] nbdime | extension was successfully linked.
+[I 2021-07-29 13:24:03.124 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-07-29 13:24:03.124 ServerApp] jupyter_server_mathjax | extension was successfully loaded.
+[I 2021-07-29 13:24:03.125 LabApp] JupyterLab extension loaded from /home/tomas/miniconda3/envs/autogis/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-29 13:24:03.125 LabApp] JupyterLab application directory is /home/tomas/miniconda3/envs/autogis/share/jupyter/lab
+[I 2021-07-29 13:24:03.128 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-07-29 13:24:03.130 ServerApp] jupyterlab_git | extension was successfully loaded.
+[I 2021-07-29 13:24:03.388 ServerApp] nbdime | extension was successfully loaded.
+[I 2021-07-29 13:24:03.389 ServerApp] Serving notebooks from local directory: /home/tomas/PycharmProjects/CARTO/LA-CARTO
+[I 2021-07-29 13:24:03.389 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-07-29 13:24:03.389 ServerApp] http://localhost:8888/lab?token=f892de661945507f5d29a7d7d1c85f1ba08753feb3419574
+[I 2021-07-29 13:24:03.389 ServerApp]     http://127.0.0.1:8888/lab?token=f892de661945507f5d29a7d7d1c85f1ba08753feb3419574
+[I 2021-07-29 13:24:03.389 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-07-29 13:24:03.425 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/tomas/.local/share/jupyter/runtime/jpserver-16881-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=f892de661945507f5d29a7d7d1c85f1ba08753feb3419574
+        http://127.0.0.1:8888/lab?token=f892de661945507f5d29a7d7d1c85f1ba08753feb3419574
+[I 2021-07-29 13:24:08.978 LabApp] Build is up to date
+[W 2021-07-29 13:24:09.012 ServerApp] 404 GET /api/contents/PycharmProjects/CARTO/LA/CARTO.ipynb?content=0&1627575848990 (127.0.0.1): No such file or directory: PycharmProjects/CARTO/LA/CARTO.ipynb
+[W 2021-07-29 13:24:09.014 ServerApp] No such file or directory: PycharmProjects/CARTO/LA/CARTO.ipynb
+[W 2021-07-29 13:24:09.036 ServerApp] 404 GET /api/contents/PycharmProjects/CARTO/LA/CARTO.ipynb?content=0&1627575848990 (127.0.0.1) 25.17ms referer=http://localhost:8888/lab
+[W 2021-07-29 13:24:09.850 ServerApp] 404 GET /api/contents/PycharmProjects/CARTO/LA?1627575849835 (127.0.0.1): No such file or directory: PycharmProjects/CARTO/LA
+[W 2021-07-29 13:24:09.851 ServerApp] No such file or directory: PycharmProjects/CARTO/LA
+[W 2021-07-29 13:24:09.852 ServerApp] 404 GET /api/contents/PycharmProjects/CARTO/LA?1627575849835 (127.0.0.1) 4.18ms referer=http://localhost:8888/lab
+-\|/-\|/-\|/-\|/-\|/-[I 2021-07-29 13:24:35.520 ServerApp] Kernel started: 567e41a8-eb58-4dca-baeb-b4f36b9b4766
+[I 2021-07-29 13:26:35.312 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-29 13:28:37.567 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-29 13:29:14.598 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-29 13:29:17.092 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-29 13:29:25.795 ServerApp] Starting buffering for 567e41a8-eb58-4dca-baeb-b4f36b9b4766:56a0f22d-2dde-4bce-98d0-b273fa762ad3
+[I 2021-07-29 13:29:36.831 ServerApp] Shutting down on /api/shutdown request.
+[I 2021-07-29 13:29:36.831 ServerApp] Shutting down 1 kernel
+[I 2021-07-29 13:29:36.832 ServerApp] Kernel shutdown: 567e41a8-eb58-4dca-baeb-b4f36b9b4766
+[I 2021-07-29 13:29:38.038 ServerApp] Shutting down 0 terminals

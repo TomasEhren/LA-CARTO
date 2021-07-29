@@ -1,0 +1,13 @@
+*.csv
+*.xls
+*.xlsx
+*.shp
+*.geojson
+*.shx
+*.sbx
+*.zip
+*.sbn
+*.prj
+*.dbf
+*.cpg
+*.log

@@ -1,0 +1,87 @@
+/home/tomas/miniconda3/envs/autogis/lib/python3.8/site-packages/jupyter_server/transutils.py:13: FutureWarning: The alias `_()` will be deprecated. Use `_i18n()` instead.
+  warnings.warn(warn_msg, FutureWarning)
+[I 2021-07-21 12:14:08.804 ServerApp] jupyter_server_mathjax | extension was successfully linked.
+[I 2021-07-21 12:14:08.817 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-07-21 12:14:08.817 ServerApp] jupyterlab_git | extension was successfully linked.
+[W 2021-07-21 12:14:09.501 ServerApp] The module 'jupyter_nbextensions_configurator' could not be found. Are you sure the extension is installed?
+[I 2021-07-21 12:14:09.501 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-07-21 12:14:09.502 ServerApp] nbdime | extension was successfully linked.
+[I 2021-07-21 12:14:09.695 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-07-21 12:14:09.696 ServerApp] jupyter_server_mathjax | extension was successfully loaded.
+[I 2021-07-21 12:14:09.697 LabApp] JupyterLab extension loaded from /home/tomas/miniconda3/envs/autogis/lib/python3.8/site-packages/jupyterlab
+[I 2021-07-21 12:14:09.697 LabApp] JupyterLab application directory is /home/tomas/miniconda3/envs/autogis/share/jupyter/lab
+[I 2021-07-21 12:14:09.709 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-07-21 12:14:09.713 ServerApp] jupyterlab_git | extension was successfully loaded.
+[I 2021-07-21 12:14:09.880 ServerApp] nbdime | extension was successfully loaded.
+[I 2021-07-21 12:14:09.881 ServerApp] Serving notebooks from local directory: /home/tomas/PycharmProjects/CARTO/LA
+[I 2021-07-21 12:14:09.881 ServerApp] Jupyter Server 1.8.0 is running at:
+[I 2021-07-21 12:14:09.881 ServerApp] http://localhost:8888/lab?token=c38a2bb77ab2668b5562917468f0baceb32cecb0af8ede1c
+[I 2021-07-21 12:14:09.881 ServerApp]     http://127.0.0.1:8888/lab?token=c38a2bb77ab2668b5562917468f0baceb32cecb0af8ede1c
+[I 2021-07-21 12:14:09.881 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2021-07-21 12:14:09.922 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/tomas/.local/share/jupyter/runtime/jpserver-53180-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/lab?token=c38a2bb77ab2668b5562917468f0baceb32cecb0af8ede1c
+        http://127.0.0.1:8888/lab?token=c38a2bb77ab2668b5562917468f0baceb32cecb0af8ede1c
+[I 2021-07-21 12:14:23.068 LabApp] Build is up to date
+[W 2021-07-21 12:14:23.729 ServerApp] 404 GET /api/contents/PycharmProjects/CARTO/LA/CARTO.ipynb?content=0&1626880463700 (127.0.0.1): No such file or directory: PycharmProjects/CARTO/LA/CARTO.ipynb
+[W 2021-07-21 12:14:23.729 ServerApp] No such file or directory: PycharmProjects/CARTO/LA/CARTO.ipynb
+[W 2021-07-21 12:14:23.730 ServerApp] 404 GET /api/contents/PycharmProjects/CARTO/LA/CARTO.ipynb?content=0&1626880463700 (127.0.0.1) 2.27ms referer=http://localhost:8888/lab
+[W 2021-07-21 12:14:23.734 ServerApp] 404 GET /api/contents/Desktop/cursos/GIS/autogis/final-assignment-TomasEhren/Untitled.ipynb?content=0&1626880463711 (127.0.0.1): No such file or directory: Desktop/cursos/GIS/autogis/final-assignment-TomasEhren/Untitled.ipynb
+[W 2021-07-21 12:14:23.735 ServerApp] No such file or directory: Desktop/cursos/GIS/autogis/final-assignment-TomasEhren/Untitled.ipynb
+[W 2021-07-21 12:14:23.735 ServerApp] 404 GET /api/contents/Desktop/cursos/GIS/autogis/final-assignment-TomasEhren/Untitled.ipynb?content=0&1626880463711 (127.0.0.1) 4.84ms referer=http://localhost:8888/lab
+[W 2021-07-21 12:14:24.411 ServerApp] 404 GET /api/contents/Desktop/cursos/GIS/autogis/final-assignment-TomasEhren?1626880464406 (127.0.0.1): No such file or directory: Desktop/cursos/GIS/autogis/final-assignment-TomasEhren
+[W 2021-07-21 12:14:24.411 ServerApp] No such file or directory: Desktop/cursos/GIS/autogis/final-assignment-TomasEhren
+[W 2021-07-21 12:14:24.412 ServerApp] 404 GET /api/contents/Desktop/cursos/GIS/autogis/final-assignment-TomasEhren?1626880464406 (127.0.0.1) 1.61ms referer=http://localhost:8888/lab
+-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/-\|/[I 2021-07-21 12:17:11.282 ServerApp] Kernel started: 0d667511-7552-4d71-a779-ef13ad9c7033
+[I 2021-07-21 12:19:18.850 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:22:55.487 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:25:01.134 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:27:06.570 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:29:12.934 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:46:25.699 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:48:31.114 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:50:36.585 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:52:41.914 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:54:47.285 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:56:53.763 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 12:58:59.186 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:29:04.511 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:31:09.771 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:33:15.161 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:35:20.459 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:37:26.688 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:39:32.623 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:41:38.594 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:43:44.008 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:45:49.420 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:47:55.157 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:56:02.560 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 13:58:07.995 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:00:13.362 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:02:18.688 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:04:24.754 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:06:30.643 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:08:36.361 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:10:41.776 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:12:48.710 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:22:58.950 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:29:05.629 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:31:11.287 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:33:16.735 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:35:22.187 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:37:28.427 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:39:35.689 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:41:44.262 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:45:50.611 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:47:57.656 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:50:03.268 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:52:10.308 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:52:43.170 ServerApp] Kernel shutdown: 0d667511-7552-4d71-a779-ef13ad9c7033
+[I 2021-07-21 14:53:35.849 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:53:44.604 ServerApp] Saving file at /CARTO.ipynb
+[I 2021-07-21 14:54:03.436 ServerApp] Shutting down on /api/shutdown request.
+[I 2021-07-21 14:54:03.439 ServerApp] Shutting down 0 kernels
+[I 2021-07-21 14:54:03.440 ServerApp] Shutting down 0 terminals
